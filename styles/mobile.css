@@ -1,0 +1,37 @@
+@media (max-width: 768px) {
+  .page {
+    flex-wrap: wrap;
+  }
+
+  .p1 {
+    flex-direction: column;
+  }
+  .pic {
+    width: 25vh;
+    height: 25vh;
+    margin: 5vh;
+  }
+
+  .discribe {
+    width: 100%;
+    padding: 2vh;
+    text-align: center;
+  }
+
+  .summary {
+    width: 95%;
+  }
+
+  .card {
+    flex-wrap: wrap;
+  }
+
+  .img {
+    width: 100%;
+    border-radius: 12%;
+  }
+
+  .project {
+    margin-right: 2vh;
+  }
+}
